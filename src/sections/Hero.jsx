@@ -28,7 +28,7 @@ function Hero() {
         <div className="hidden sm:flex justify-between items-center mt-0 sm:mt-12 ">
           <img src="images/hero-img.png" alt="" className=" mt-[5%]" />
          <div>
-         <img src="images/hero-img1.png" alt="" className=" mx-auto" />
+         <img src="images/hero-img1.png" alt="" className=" mx-auto floating" />
          <div className=" mt-4 flex flex-col sm:flex-row items-center gap-4 justify-center">
          
          <button className=" bg-[#fff] hover:bg-black  text-black hover:text-white font-potta text-xl sm:text-3xl rounded-full border-2 px-14 pt-2 pb-3 ">
