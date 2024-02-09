@@ -2,6 +2,9 @@ import { useState } from "react";
 import { IoClose, IoMenu } from "react-icons/io5";
 import { Link } from "react-scroll";
 
+import { FaTwitter } from "react-icons/fa";
+import { FaTelegramPlane } from "react-icons/fa";
+
 function Navbar() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
@@ -32,27 +35,24 @@ function Navbar() {
         
 
           <div className="items-center justify-evenly text-base font-medium text-white hidden lg:flex">
-            <Link
-              to="/"
-              onClick={() => setSidebarOpen(false)}
-              className="cursor-pointer text-sm xl:text-base"
-            >
-              Home
-            </Link>
-            <a
-              href="/"
-             
-              className="cursor-pointer text-sm xl:text-base"
-            >
-              Buy Now
-            </a>
-            <Link
-              to="roadmap"
-              onClick={() => setSidebarOpen(false)}
-              className="cursor-pointer text-sm xl:text-base"
-            >
-              Story
-            </Link>
+          <div className=" flex justify-center gap-5 ">
+          <a
+            href="https://t.me/garbagesol"
+            target="_blank"
+            className="  hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-3xl "
+          >
+            {" "}
+            <FaTelegramPlane />
+          </a>
+
+          <a
+            href="https://twitter.com/GarbageSol"
+            target="_blank"
+            className=" hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-3xl"
+          >
+            <FaTwitter />
+          </a>
+        </div>
           </div>
         </div>
       </nav>
@@ -71,21 +71,24 @@ function Navbar() {
         </div>
 
         <div className="space-y-5 flex flex-col text-left items-start text-black font-medium">
-          <Link
-            to="/"
-            onClick={() => setSidebarOpen(false)}
-            className="cursor-pointer text-sm xl:text-base"
+        <div className=" flex justify-center gap-5 ">
+          <a
+            href="https://t.me/garbagesol"
+            target="_blank"
+            className="  hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-4xl "
           >
-            BUY NOW
-          </Link>
+            {" "}
+            <FaTelegramPlane />
+          </a>
 
-          <Link
-            to="roadmap"
-            onClick={() => setSidebarOpen(false)}
-            className="cursor-pointer text-sm xl:text-base"
+          <a
+            href="https://twitter.com/GarbageSol"
+            target="_blank"
+            className=" hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-4xl"
           >
-            Story
-          </Link>
+            <FaTwitter />
+          </a>
+        </div>
         </div>
       </div>
 

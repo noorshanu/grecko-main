@@ -22,14 +22,14 @@ function App() {
         <div className="" id="about">
           <About />
         </div>
-        <div id="roadmap">
+        {/* <div id="roadmap">
           <Roadmap />
-        </div>
+        </div> */}
       </main>
 
-      <div id="contact">
+      {/* <div id="contact">
         <JoinCommunity />
-      </div>
+      </div> */}
     </div>
   );
 }
