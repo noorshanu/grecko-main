@@ -15,9 +15,9 @@ function Hero() {
     <section className="relative z-10 overflow-hidden bg-[#9EFF00]">
       <div className="container-wrapper   pt-2 pb-0 lg:pt-0 lg:pb-6 lg:drop-shadow-[0_0_10rem_white]">
         <div className=" text-center mt-4 sm:mt-10">
-          <h1 className="text-center text-[#000] text-4xl  sm:text-8xl font-potta  pb-2 txt-s">
+          <h1 className="text-center text-[#000] text-4xl  sm:text-7xl font-potta  pb-2 txt-s">
             {" "}
-            grecko-nft
+            Grecko-ERC404
           </h1>
           <p className=" font-potta text-lg sm:text-4xl mt-2">
           The Future of Hybrid Assets
