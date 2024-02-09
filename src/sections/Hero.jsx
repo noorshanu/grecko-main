@@ -35,7 +35,7 @@ function Hero() {
          </button>
        </div>
          <img src="images/hero-img1.png" alt="" className=" mx-auto" />
-         <p className=" text-center font-semibold mt-4">Contract:40-4w8r4wreuihj3489ruterfkd</p>
+         {/* <p className=" text-center font-semibold mt-4">Contract:40-4w8r4wreuihj3489ruterfkd</p> */}
          </div>
           <img src="images/hero-img2.png" alt="" className="-mt-[10%]" />
         </div>
@@ -94,7 +94,7 @@ function Hero() {
             <FaTwitter />
           </a>
         </div>
-        <p className=" text-center font-semibold mt-4">Contract:40-4w8r4wreuihj3489ruterfkd</p>
+        {/* <p className=" text-center font-semibold mt-4">Contract:40-4w8r4wreuihj3489ruterfkd</p> */}
           </div>
         </div>
       </div>
