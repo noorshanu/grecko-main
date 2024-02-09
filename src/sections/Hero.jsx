@@ -78,7 +78,7 @@ function Hero() {
          </button>
          <div className=" flex justify-center gap-5 mt-6 ">
           <a
-            href="https://t.me/garbagesol"
+            href="https://t.me/grecko404"
             target="_blank"
             className="  hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-3xl "
           >
@@ -87,7 +87,7 @@ function Hero() {
           </a>
 
           <a
-            href="https://twitter.com/GarbageSol"
+            href="https://twitter.com/Grecko404"
             target="_blank"
             className=" hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-3xl"
           >

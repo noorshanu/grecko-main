@@ -37,7 +37,7 @@ function Navbar() {
           <div className="items-center justify-evenly text-base font-medium text-white hidden lg:flex">
           <div className=" flex justify-center gap-5 ">
           <a
-            href="https://t.me/garbagesol"
+            href="https://t.me/grecko404"
             target="_blank"
             className="  hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-3xl "
           >
@@ -46,7 +46,7 @@ function Navbar() {
           </a>
 
           <a
-            href="https://twitter.com/GarbageSol"
+            href="https://twitter.com/Grecko404"
             target="_blank"
             className=" hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-3xl"
           >
@@ -82,7 +82,7 @@ function Navbar() {
           </a>
 
           <a
-            href="https://twitter.com/GarbageSol"
+            href="https://twitter.com/Grecko404"
             target="_blank"
             className=" hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-4xl"
           >
