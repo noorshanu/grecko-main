@@ -26,7 +26,7 @@ function Hero() {
          
         </div>
         <div className="hidden sm:flex justify-between items-center mt-0 sm:mt-12 ">
-          <img src="images/hero-img.png" alt="" className=" mt-4" />
+          <img src="images/hero-img.png" alt="" className=" mt-[5%]" />
          <div>
          <div className=" mt-4 flex flex-col sm:flex-row items-center gap-4 justify-center">
          
@@ -37,7 +37,7 @@ function Hero() {
          <img src="images/hero-img1.png" alt="" className=" mx-auto" />
          <p className=" text-center font-semibold mt-4">Contract:40-4w8r4wreuihj3489ruterfkd</p>
          </div>
-          <img src="images/hero-img2.png" alt="" className="-mt-2" />
+          <img src="images/hero-img2.png" alt="" className="-mt-[10%]" />
         </div>
         <div className="block lg:hidden sm:hidden">
           <Swiper
