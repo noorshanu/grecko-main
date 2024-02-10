@@ -15,7 +15,7 @@ function About() {
          </a>
           </div>
           <p className=" font-potta text-center text-base sm:text-[30px] max-w-5xl mx-auto lh-1_8 pt-3 sm:px-0 px-2">
-          The ERC404 standard's Hybrid Asset Protocol (HAP) a dual capabilities by merging the liquidity and fungibility of ERC20 tokens with the uniqueness and collectibility of ERC721 NFTs. With a pioneering collection of 10,000 "Guardians," Greko leverages the ERC404 standard, an avant-garde blend of the ERC20 and ERC721 standards, to bridge the gap between fungible liquidity and non-fungible uniqueness.
+          The ERC404 standard's Hybrid Asset Protocol (HAP) a dual capabilities by merging the liquidity and fungibility of ERC20 tokens with the uniqueness and collectibility of ERC721 NFTs. With a pioneering collection of 10,000 "Guardians," Grecko leverages the ERC404 standard, an avant-garde blend of the ERC20 and ERC721 standards, to bridge the gap between fungible liquidity and non-fungible uniqueness.
           </p>
         </div>
       </div>
