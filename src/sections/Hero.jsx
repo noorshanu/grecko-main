@@ -37,7 +37,7 @@ function Hero() {
        
        </div>
         
-       <a href="https://etherscan.io/address/0x9d0c7c09c712a8a7cb4d9889849e126dc78be6d0" className=" text-center font-semibold pt-8">Contract : 0x9d0c7c09c712a8a7cb4d9889849e126dc78be6d0</a>
+       <a href="https://" className=" text-center font-semibold pt-8">Contract : </a>
          </div>
           <img src="images/hero-img2.png" alt="" className="-mt-[10%]" />
         </div>
@@ -96,7 +96,7 @@ function Hero() {
             <FaTwitter />
           </a>
         </div>
-        <a href="https://etherscan.io/address/0x9d0c7c09c712a8a7cb4d9889849e126dc78be6d0" className=" text-center text-xs font-semibold px-2">Contract : 0x9d0c7c09c712a8a7cb4d9889849e126dc78be6d0</a>
+        <a href="https://etherscan.io/address/" className=" text-center text-xs font-semibold px-2">Contract : </a>
           </div>
         </div>
       </div>
