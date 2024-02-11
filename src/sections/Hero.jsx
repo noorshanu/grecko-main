@@ -31,12 +31,13 @@ function Hero() {
          <img src="images/hero-img1.png" alt="" className=" mx-auto floating" />
          <div className=" mt-4 flex flex-col sm:flex-row items-center gap-4 justify-center">
          
-         <button className=" bg-[#fff] hover:bg-black  text-black hover:text-white font-potta text-xl sm:text-3xl rounded-full border-2 px-14 pt-2 pb-3 ">
+         <button className=" bg-[#fff] hover:bg-black  text-black hover:text-white font-potta text-xl sm:text-3xl rounded-full border-2 px-14 pt-2 pb-3 mb-2 ">
            Buy Now
          </button>
+       
        </div>
         
-         {/* <p className=" text-center font-semibold mt-4">Contract:40-4w8r4wreuihj3489ruterfkd</p> */}
+       <a href="https://etherscan.io/address/0x9d0c7c09c712a8a7cb4d9889849e126dc78be6d0" className=" text-center font-semibold pt-8">Contract : 0x9d0c7c09c712a8a7cb4d9889849e126dc78be6d0</a>
          </div>
           <img src="images/hero-img2.png" alt="" className="-mt-[10%]" />
         </div>
@@ -77,7 +78,7 @@ function Hero() {
           <button className=" bg-[#fff] hover:bg-black  text-black hover:text-white font-potta text-xl sm:text-3xl rounded-full border-2 px-14 pt-2 pb-3 w-[250px] mx-auto ">
            Buy Now
          </button>
-         <div className=" flex justify-center gap-5 mt-6 ">
+         <div className=" flex justify-center gap-5 mt-6  mb-4">
           <a
             href="https://t.me/grecko404"
             target="_blank"
@@ -95,7 +96,7 @@ function Hero() {
             <FaTwitter />
           </a>
         </div>
-        {/* <p className=" text-center font-semibold mt-4">Contract:40-4w8r4wreuihj3489ruterfkd</p> */}
+        <a href="https://etherscan.io/address/0x9d0c7c09c712a8a7cb4d9889849e126dc78be6d0" className=" text-center text-xs font-semibold px-2">Contract : 0x9d0c7c09c712a8a7cb4d9889849e126dc78be6d0</a>
           </div>
         </div>
       </div>
