@@ -99,7 +99,7 @@ function Hero() {
             <FaTwitter />
           </a>
         </div>
-        <a href="https://etherscan.io/address/" className=" text-center text-xs font-semibold px-2">Contract : </a>
+        {/* <a href="https://etherscan.io/address/" className=" text-center text-xs font-semibold px-2">Contract : </a> */}
           </div>
         </div>
       </div>
