@@ -32,7 +32,7 @@ function Hero() {
          <div className=" mt-4 flex flex-col sm:flex-row items-center gap-4 justify-center">
          
          <button className=" bg-[#fff] hover:bg-black  text-black hover:text-white font-potta text-xl sm:text-xl rounded-full border-2 px-14 pt-2 pb-3 mb-2 ">
-           Launching Soon
+           Buy Now
          </button>
          <a href="https://t.me/grecko404" className=" bg-[#fff] hover:bg-black  text-black hover:text-white font-potta text-xl sm:text-xl rounded-full border-2 px-14 pt-2 pb-3 mb-2 ">
            Join Telegram
@@ -79,7 +79,7 @@ function Hero() {
           </Swiper>
           <div className=" flex flex-col justify-center">
           <button className=" bg-[#fff] hover:bg-black  text-black hover:text-white font-potta text-lg sm:text-3xl rounded-full border-2 px-8 pt-2 pb-3 w-[250px] mx-auto ">
-          Launching soon
+        Buy Now
          </button>
          <div className=" flex justify-center gap-5 mt-6  mb-4">
           <a
