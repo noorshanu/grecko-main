@@ -78,7 +78,7 @@ function Hero() {
             </SwiperSlide>
           </Swiper>
           <div className=" flex flex-col justify-center">
-          <button className=" bg-[#fff] hover:bg-black  text-black hover:text-white font-potta text-xl sm:text-3xl rounded-full border-2 px-14 pt-2 pb-3 w-[250px] mx-auto ">
+          <button className=" bg-[#fff] hover:bg-black  text-black hover:text-white font-potta text-lg sm:text-3xl rounded-full border-2 px-8 pt-2 pb-3 w-[250px] mx-auto ">
           Launching soon
          </button>
          <div className=" flex justify-center gap-5 mt-6  mb-4">
