@@ -39,6 +39,7 @@ function Hero() {
          </a>
        
        </div>
+       <a href="https://etherscan.io/address/0x6a52dc99aac67b8f7b40b917d1c2bd396500a96b" className=" text-center text-lg font-semibold px-2">Contract : 0x6a52dc99aac67b8f7b40b917d1c2bd396500a96b </a>
         
        <a href="https://" className=" text-center font-semibold pt-8"> </a>
          </div>
@@ -99,7 +100,7 @@ function Hero() {
             <FaTwitter />
           </a>
         </div>
-        {/* <a href="https://etherscan.io/address/" className=" text-center text-xs font-semibold px-2">Contract : </a> */}
+        <a href="https://etherscan.io/address/0x6a52dc99aac67b8f7b40b917d1c2bd396500a96b" className=" text-center text-xs font-semibold px-2">Contract : 0x6a52dc99aac67b8f7b40b917d1c2bd396500a96b </a>
           </div>
         </div>
       </div>
