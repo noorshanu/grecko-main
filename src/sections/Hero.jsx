@@ -31,9 +31,9 @@ function Hero() {
          <img src="images/hero-img1.png" alt="" className=" mx-auto floating" />
          <div className=" mt-4 flex flex-col sm:flex-row items-center gap-4 justify-center">
          
-         <button className=" bg-[#fff] hover:bg-black  text-black hover:text-white font-potta text-xl sm:text-xl rounded-full border-2 px-14 pt-2 pb-3 mb-2 ">
+         <a href="https://app.uniswap.org/tokens/ethereum/0x6a52dc99aac67b8f7b40b917d1c2bd396500a96b" target="_blank" className=" bg-[#fff] hover:bg-black  text-black hover:text-white font-potta text-xl sm:text-xl rounded-full border-2 px-14 pt-2 pb-3 mb-2 ">
            Buy Now
-         </button>
+         </a>
          <a href="https://t.me/grecko404" className=" bg-[#fff] hover:bg-black  text-black hover:text-white font-potta text-xl sm:text-xl rounded-full border-2 px-14 pt-2 pb-3 mb-2 ">
            Join Telegram
          </a>
@@ -79,9 +79,9 @@ function Hero() {
             </SwiperSlide>
           </Swiper>
           <div className=" flex flex-col justify-center">
-          <button className=" bg-[#fff] hover:bg-black  text-black hover:text-white font-potta text-lg sm:text-3xl rounded-full border-2 px-8 pt-2 pb-3 w-[250px] mx-auto ">
+          <a href="https://app.uniswap.org/tokens/ethereum/0x6a52dc99aac67b8f7b40b917d1c2bd396500a96b" target="_blank" className=" bg-[#fff] hover:bg-black  text-black hover:text-white font-potta text-lg sm:text-3xl rounded-full border-2 px-8 pt-2 pb-3 w-[250px] mx-auto ">
         Buy Now
-         </button>
+         </a>
          <div className=" flex justify-center gap-5 mt-6  mb-4">
           <a
             href="https://t.me/grecko404"
